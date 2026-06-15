@@ -5,7 +5,7 @@
     <div class="container-fluid">
 
       <span class="navbar-brand fw-bold fs-3">
-        👕 Urban Style
+        👕 Dop Store
       </span>
 
       <div class="text-light">
